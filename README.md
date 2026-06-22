@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="TCD_OVERLORD Banner" width="100%">
+  <img src="2026_06_22_banner.png" alt="TCD_OVERLORD Banner" width="100%">
 </p>
 
 <div align="center">

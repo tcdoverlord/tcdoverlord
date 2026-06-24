@@ -1,148 +1,164 @@
+
 <p align="center">
   <img src="2026_06_22_banner_v4.png" alt="TCD_OVERLORD Banner" width="100%">
 </p>
 
+---
+
 <div align="center">
 
-## 🛡️ TCD_OVERLORD — CLOUD • SYSTEMS • AUTOMATION ENGINEERING
+## 🛡️ TCD_OVERLORD — CLOUD • DEVOPS • SYSTEMS ENGINEERING
 
-### AWS Certified • Full-stack systems builder • Infrastructure + automation engineer
+### AWS Certified • Full-Stack Engineer • Automation & Infrastructure Builder
 
----
-
-## 🧠 CORE PHILOSOPHY
-
-> ### "If I have to do it twice, I turn it into a system."
-
-I build real, working computing systems across **cloud infrastructure, web applications, automation pipelines, and Linux environments**.
-
-My focus is **reliability, deployment, and system-level thinking**, not isolated scripts or standalone apps.
+</div>
 
 ---
 
-## ☁️ CERTIFICATION
+# 🧠 CORE ENGINEERING PHILOSOPHY
 
-🎓 AWS Cloud Practitioner Essentials (2025)  
-📜 Certified in core AWS cloud concepts including:
-- EC2 compute systems
-- S3 storage
-- IAM security principles
-- Cloud architecture fundamentals
+> ### “If I have to do it twice, I turn it into a system.”
 
----
+I design and build **end-to-end engineering systems** spanning cloud infrastructure, backend services, automation pipelines, and Linux-based environments.
 
-## 🏗️ WHAT I ACTUALLY BUILD
-
----
-
-### 🌐 Full-Stack Web Systems
-🧩 Multi-page web applications (users, messaging, forms, dashboards)  
-⚙️ HTML / CSS / JavaScript modular architecture  
-🖥️ Structured UI systems with reusable components  
+My focus is:
+- system reliability
+- deployment automation
+- scalable architecture
+- real-world infrastructure design
 
 ---
 
-### ☁️ Cloud Infrastructure (AWS EC2)
-🚀 Deployed live web applications on EC2  
-🖧 Managed Linux server environments  
-🌍 Real-world hosting and deployment workflows  
-🔐 Applied AWS cloud architecture fundamentals  
+# 🚀 ENGINEERING EXPERIENCE (REAL SYSTEMS BUILT)
 
 ---
 
-### 🐳 DevOps & Container Systems
-📦 Docker-based application environments  
-🖥️ Linux VM deployment and testing environments  
-💾 Backup + restore system workflows  
-🔁 Reproducible infrastructure setups  
+## 🌐 Full-Stack Web Systems
+- Multi-page web applications (users, messaging, forms, dashboards)
+- Modular frontend architecture (HTML / CSS / JavaScript)
+- UI systems with reusable components and structured layouts
+- Deployed web applications on AWS EC2 environments
 
 ---
 
-### 🐍 Automation & Data Engineering
-🕷️ Selenium-based scraping systems (eBayCalc)  
-📊 CSV / JSON structured data pipelines  
-⚙️ Browser automation + extraction workflows  
-🧠 Data processing and transformation scripts  
+## ☁️ AWS Cloud & Infrastructure
+- EC2-based deployment and server management
+- IAM authentication and security concepts
+- S3 + cloud storage fundamentals
+- DynamoDB data modeling and NoSQL structure design
+- Cloud architecture planning and system design workflows
 
 ---
 
-### 🧱 Backend Engineering
-🌐 Node.js + Express API systems  
-🔐 Authentication systems (bcrypt-based security)  
-🐳 Dockerized backend services  
-📡 REST API architecture  
+## 🐳 DevOps & Container Systems
+- Docker-based application environments
+- Linux VM provisioning and replication
+- Reproducible development environments
+- Backup and restore system workflows
+- Infrastructure portability across machines
 
 ---
 
-### 💾 System Recovery & Infrastructure Design
-🧠 Linux environment snapshots and backups  
-🔄 VM recovery workflows and system restoration  
-📁 Portable development environments across machines  
+## 🧱 Backend Engineering
+- Node.js + Express API development
+- RESTful API architecture design
+- Authentication systems (bcrypt security)
+- Dockerized backend services
+- Server-side routing and logic systems
 
 ---
 
-## 🚀 FEATURED EXPERIENCE
+## 🐍 Automation & Data Engineering
+- Python-based automation systems
+- Selenium web scraping pipelines (eBayCalc)
+- CSV / JSON structured data generation
+- Browser automation and extraction workflows
+- Data processing and transformation systems
+
+---
+
+## 💾 System Recovery & Infrastructure Design
+- Linux environment snapshots and backups
+- VM restore and recovery workflows
+- Portable system architecture design
+- Environment replication across machines
+
+---
+
+# 🧪 PROJECT EXPERIENCE
 
 ---
 
 ### 🌐 EternalEons Web Platform
-☁️ AWS EC2 hosted multi-page web application  
-🧩 User systems, messaging, forms, notifications  
-⚙️ Modular frontend architecture and UI systems  
+- AWS EC2 hosted multi-page application
+- User systems, messaging, forms, notifications
+- Modular frontend architecture and UI systems
+- Full-stack web application structure
 
 ---
 
-### 🐍 eBayCalc Automation Tool
-🕷️ Selenium scraping system  
-📊 Extracts eBay category data into structured CSV format  
-⚙️ Python-based automation and data pipeline  
-
----
-
-### ☁️ AWS Marketplace System (Demeter – Team Learning Project)
-🧠 DynamoDB modeling and AWS architecture design concepts  
-🔐 IAM / Cognito authentication learning  
-🧩 Role-based system design (customer/vendor/composter)  
-⚠️ Team project — not fully completed as production system  
-💡 Used for cloud systems learning and architecture experience  
+### 🐍 eBayCalc Automation System
+- Selenium-based scraping engine
+- Extracts structured marketplace data
+- CSV + JSON pipeline generation
+- Python automation and browser control
 
 ---
 
 ### 🐳 Linux / Docker / VM Systems
-🖥️ Linux-based development environments  
-📦 Docker container experiments  
-💾 Backup and restore workflows for full environments  
+- Full environment backup and restore systems
+- Docker container experimentation
+- Linux VM development and testing environments
+- Reproducible infrastructure setup workflows
 
 ---
 
 ### ⚙️ Node.js Backend Systems (Habit Tracker)
-🌐 Express API backend system  
-🔐 Authentication using bcrypt  
-🐳 Docker deployment structure  
-📡 RESTful service design  
+- Express API backend system
+- Authentication using bcrypt
+- Dockerized backend deployment
+- REST API service architecture
 
 ---
 
-## 💬 PROFESSIONAL PROFILE
+# 💼 PROFESSIONAL SUMMARY
 
-AWS-certified systems-focused engineer with experience across:
+AWS-certified systems engineer with hands-on experience across:
 
-☁️ Cloud infrastructure (AWS EC2, IAM, S3 concepts)  
-🧱 Full-stack web application development  
-🐳 DevOps + containerized environments  
-🐍 Automation and data pipeline engineering  
-🖥️ Linux-based system administration concepts  
+- Cloud infrastructure (AWS EC2, IAM, S3, DynamoDB)
+- Full-stack web development
+- DevOps and containerization (Docker + Linux)
+- Backend API development (Node.js / Express)
+- Automation and scraping systems (Python + Selenium)
+- System design and infrastructure architecture
 
-Focused on building **deployable, maintainable, and automated systems across cloud and local environments**.
-
----
-
-## 🚀 ONE-LINE SUMMARY
-
-**TCD_OVERLORD is a cloud and systems engineering portfolio focused on building and deploying full-stack applications, automation pipelines, and infrastructure systems using AWS, Docker, Linux, and modern backend technologies.**
+Focused on building **deployable, maintainable, and automated systems across cloud and local environments.**
 
 ---
 
-### 🌐 BUILD • DEPLOY • AUTOMATE • RECOVER
+# 🚀 ONE-LINE SUMMARY
+
+**TCD_OVERLORD is a cloud and systems engineering portfolio focused on building, deploying, and automating full-stack applications, backend services, and infrastructure systems using AWS, Docker, Linux, and modern engineering practices.**
+
+---
+
+# 🔎 SKILLS TAGS (FOR SEARCH DISCOVERY)
+
+#CloudComputing #AWS #EC2 #IAM #S3 #DynamoDB  
+#DevOps #Docker #Linux #SystemAdministration #Infrastructure  
+#FullStackDevelopment #WebDevelopment #Frontend #Backend  
+#NodeJS #Express #RESTAPI #Authentication #Bcrypt  
+#Python #Automation #Selenium #WebScraping #DataEngineering  
+#JavaScript #HTML #CSS #UIEngineering  
+#Git #GitHub #VersionControl #CI_CD #Deployment  
+#VMs #VirtualMachines #SystemDesign #ScalableSystems  
+#CloudEngineering #BackendSystems #AutomationEngineering  
+#SoftwareEngineering #TechPortfolio #DevOpsEngineering  
+
+---
+
+<div align="center">
+
+### ⚙️ BUILD • DEPLOY • AUTOMATE • RECOVER
 
 </div>

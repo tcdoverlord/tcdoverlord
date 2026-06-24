@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="2026_06_22_banner_v4.png" alt="TCD_OVERLORD Banner" width="100%">
+  <img src="bannerv5.png" alt="TCD_OVERLORD Banner" width="100%">
 </p>
 
 ---

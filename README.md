@@ -3,9 +3,6 @@
   <img src="bannerv5.png" alt="TCD_OVERLORD Banner" width="100%">
 </p>
 <div align="center">
----
-
-# 🔎 SKILLS TAGS (FOR SEARCH DISCOVERY)
 
 #CloudComputing #AWS #EC2 #IAM #S3 #DynamoDB  
 #DevOps #Docker #Linux #SystemAdministration #Infrastructure  
@@ -16,7 +13,9 @@
 #Git #GitHub #VersionControl #CI_CD #Deployment  
 #VMs #VirtualMachines #SystemDesign #ScalableSystems  
 #CloudEngineering #BackendSystems #AutomationEngineering  
-#SoftwareEngineering #TechPortfolio #DevOpsEngineering  
+#SoftwareEngineering #TechPortfolio #DevOpsEngineering 
+
+# 🔎 SKILLS TAGS (FOR SEARCH DISCOVERY)
 
 ---
 

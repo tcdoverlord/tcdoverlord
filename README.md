@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### ⚙️ BUILD • DEPLOY • AUTOMATE • RECOVER
+### ⚙️ BUILD • DEPLOY • AUTOMATE • RECOVER • SCALE
 
 ### 📄 [VIEW MY TECHNICAL RÉSUMÉ](https://tcdoverlord.github.io/Resume_TCDOVERLORD/)
 

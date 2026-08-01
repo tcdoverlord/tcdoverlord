@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannerv6.png" alt="TCD_OVERLORD Banner" width="100%">
+  <img src="Disipline_Faith_Victory_Family_Crest.png" alt="TCD_OVERLORD Banner" width="100%">
 </p>
 
 <div align="center">

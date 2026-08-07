@@ -1,6 +1,6 @@
-<p align="center">
+
   ![Build Automate Solve Scale](Build-Automate-Solve-Scale-Tech-Banner.png)
-</p>
+
 
 <div align="center">
 

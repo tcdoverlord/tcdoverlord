@@ -1,6 +1,5 @@
 
-  ![Build Automate Solve Scale](Build-Automate-Solve-Scale-Tech-Banner.png)
-
+![Engineering Solutions](Engineering-Solutions.png)
 
 <div align="center">
 

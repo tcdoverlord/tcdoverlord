@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannerv7.png" alt="TCD_OVERLORD Banner" width="100%">
+  ![Build Automate Solve Scale](Build-Automate-Solve-Scale-Tech-Banner.png)
 </p>
 
 <div align="center">

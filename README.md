@@ -1,5 +1,5 @@
 
-![Engineering Solutions](Engineering-Solutions.png)
+![Knowledge](update_knowledge_hero_august2026.png)
 
 <div align="center">
 

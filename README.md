@@ -1,5 +1,5 @@
 
-![Knowledge](update_knowledge_hero_august2026_clean_text.png)
+![Knowledge](tcdoverlord_hero_homepage.png)
 
 <div align="center">
 

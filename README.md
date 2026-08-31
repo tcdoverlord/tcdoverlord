@@ -25,8 +25,6 @@
 
 ### 🚀 [EXPLORE ANGEL AI](https://github.com/tcdoverlord/Angel-AI)
 
-### 🤝 [CONTRIBUTE / START WITH RUSTY](https://github.com/tcdoverlord/Angel-AI/tree/main/rusty)
-
 </div>
 
 ---

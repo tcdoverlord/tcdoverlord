@@ -1,0 +1,2 @@
+OPL palette: Emerald #18E0A4 / Deep Emerald #0B8F68 / Pink #FF4FA3 / Rose #FF86C5 / Obsidian #07110F
+Naming convention: all Playmate assets use the OPL prefix so they can live beside the Obsidian Stallion assets.

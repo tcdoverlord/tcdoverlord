@@ -20,10 +20,6 @@ Independent builder focused on practical AI systems, local LLM infrastructure, a
 
 ### <a href="https://tcdoverlord.github.io/Resume_TCDOVERLORD/">View My Technical Résumé →</a>
 
-<a href="https://tcdoverlord.github.io/Resume_TCDOVERLORD/">
-  <img src="https://img.shields.io/badge/TECHNICAL_RÉSUMÉ-0B84F3?style=for-the-badge&logo=readme&logoColor=white" alt="Technical Résumé">
-</a>
-&nbsp;
 <a href="https://github.com/tcdoverlord?tab=repositories">
   <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
 </a>

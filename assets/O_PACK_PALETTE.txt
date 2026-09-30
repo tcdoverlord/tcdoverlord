@@ -1,0 +1,16 @@
+O_PACK PALETTE
+================
+Primary Pink: #FF4FA3
+Hot Pink: #FF2F8F
+Electric Blue: #2EA8FF
+Deep Blue: #1261A8
+Emerald: #18E0A4
+Deep Emerald: #0B8F68
+Sparkle Gold-White: #F5FFF9
+Obsidian: #07110F
+
+Design direction:
+- Dark obsidian base
+- Pink, electric blue, and emerald accents
+- Emerald/pink/blue sparkle highlights
+- No purple

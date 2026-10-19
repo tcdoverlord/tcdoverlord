@@ -44,7 +44,7 @@ My work combines **AI engineering, scripting, web development, systems administr
 
 ## Technical Skills
 
-| **Skill Area 1** | **Skill Area 2** |
+| | |
 |---|---|
 | **🌐 Web Development**<br>HTML5, CSS3, JavaScript, responsive design, frontend development, UI/UX, dashboards and web applications. | **🐍 Programming & Scripting**<br>Python, PowerShell, Bash, Windows batch, automation, application development, debugging and troubleshooting. |
 | **🤖 AI Engineering & LLMs**<br>LocalAI, Ollama, LLMs, AI agents, custom AI harnesses, orchestration, persistent memory, prompt engineering and tool integration. | **🧠 RAG & Knowledge Systems**<br>Retrieval-Augmented Generation, document retrieval, knowledge bases, context management, conversational memory and embedding-based retrieval concepts. |

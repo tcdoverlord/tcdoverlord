@@ -42,15 +42,6 @@ I'm a technology-focused developer interested in building useful software, local
 
 My work combines **AI engineering, scripting, web development, systems administration, application integration, and deployment workflows**. I enjoy bringing separate components together into working systems, building my own AI assistant infrastructure, improving developer tools, and contributing to open-source technology.
 
-## Technology Stack
-
-| AI & Local Models | Development | Infrastructure |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/LocalAI-0F172A?style=flat-square" alt="LocalAI"> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> |
-| <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama"> | <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> |
-| <img src="https://img.shields.io/badge/LLMs_%26_Agents-7C3AED?style=flat-square" alt="LLMs and agents"> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"> |
-| <img src="https://img.shields.io/badge/RAG_%26_Memory-0E7490?style=flat-square" alt="RAG and memory"> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> | <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"> |
-
 ## Technical Skills
 
 | **Skill Area 1** | **Skill Area 2** |
@@ -84,26 +75,6 @@ My work combines **AI engineering, scripting, web development, systems administr
 </a>
 
 </div>
-
-## Current Focus
-
-- Building and improving local-first AI applications
-- Developing custom AI harnesses, memory systems, and agent workflows
-- Integrating models, APIs, tools, and supporting services
-- Creating useful Windows utilities and automation scripts
-- Improving application packaging, deployment, and validation
-- Learning, documenting, and contributing to open-source technology
-
-## Explore My Work
-
-<div align="center">
-
-<a href="https://github.com/tcdoverlord?tab=repositories">
-  <img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories">
-</a>
-<a href="https://tcdoverlord.github.io/Resume_TCDOVERLORD/">
-  <img src="https://img.shields.io/badge/VIEW_TECHNICAL_RÉSUMÉ-0E7490?style=for-the-badge&logo=readme&logoColor=white" alt="View technical résumé">
-</a>
 
 **Build • Integrate • Automate • Learn • Share**
 

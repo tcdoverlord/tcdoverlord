@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/tcdoverlord/tcdoverlord/blob/main/dokig6dokig6doki.jpg?raw=true" alt="TCDOVERLORD Cybernetic Deep Sea AI Emblem" width="100%">
+<img src="https://github.com/tcdoverlord/tcdoverlord/blob/main/CyberneticTCDOverlordTechBanner.png?raw=true" alt="TCDOVERLORD Cybernetic Deep Sea AI Emblem" width="100%">
 
 # TCDOVERLORD
 

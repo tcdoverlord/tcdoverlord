@@ -42,17 +42,90 @@ I'm a technology-focused developer interested in building useful software, local
 
 My work combines **AI engineering, scripting, web development, systems administration, application integration, and deployment workflows**. I enjoy bringing separate components together into working systems, building my own AI assistant infrastructure, improving developer tools, and contributing to open-source technology.
 
+---
+
 ## Technical Skills
 
-| | |
-|---|---|
-| **🌐 Web Development**<br>HTML5, CSS3, JavaScript, responsive design, frontend development, UI/UX, dashboards and web applications. | **🐍 Programming & Scripting**<br>Python, PowerShell, Bash, Windows batch, automation, application development, debugging and troubleshooting. |
-| **🤖 AI Engineering & LLMs**<br>LocalAI, Ollama, LLMs, AI agents, custom AI harnesses, orchestration, persistent memory, prompt engineering and tool integration. | **🧠 RAG & Knowledge Systems**<br>Retrieval-Augmented Generation, document retrieval, knowledge bases, context management, conversational memory and embedding-based retrieval concepts. |
-| **🌍 Open Source & AI Community**<br>LocalAI ecosystem, Git, GitHub, repository maintenance, integration testing, issue troubleshooting and collaborative development. | **🖥️ UI & Application Builds**<br>UI development, dashboards, modular architecture, desktop packaging, installers, launchers, build automation and release validation. |
-| **🗄️ Databases & SQL**<br>PostgreSQL, SQLite, SQL queries, database connectivity, schema fundamentals, persistent storage and data management. | **🐳 DevOps & Deployment**<br>Docker, Docker Compose, Railway, environment configuration, container management, CI/CD, GitHub Actions, health checks and deployment troubleshooting. |
-| **☁️ Cloud & Infrastructure**<br>AWS fundamentals, cloud development environments, Linux services, API deployment, networking and infrastructure configuration. | **⚙️ Operating Systems**<br>Windows 10/11, Linux, Ubuntu, PowerShell administration, system diagnostics, service management, backups, recovery and software installation. |
-| **📊 Microsoft Office**<br>Word, Excel, PowerPoint, Outlook, spreadsheet formulas, data organization, presentations, documentation and reporting. | **📝 Documentation & Technical Support**<br>README files, installation guides, user documentation, troubleshooting guides, diagnostic logs and software setup support. |
-| **🛡️ Testing & Security**<br>Automated, integration and regression testing, build verification, SHA-256 integrity checks, secure configuration, error handling and release validation. | **🔧 Systems Automation**<br>Workflow automation, startup scripts, service integration, backup tooling, system maintenance and application troubleshooting. |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Development & Engineering</th>
+      <th align="left">Systems & Infrastructure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <strong>🌐 Web Development</strong><br>
+        HTML5, CSS3, JavaScript, responsive design, frontend development, UI/UX, dashboards, and web applications.
+      </td>
+      <td valign="top">
+        <strong>🐍 Programming & Scripting</strong><br>
+        Python, PowerShell, Bash, Windows batch, automation, application development, debugging, and troubleshooting.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>🤖 AI Engineering & LLMs</strong><br>
+        LocalAI, Ollama, large language models, AI agents, custom AI harnesses, orchestration, persistent memory, prompt engineering, and tool integration.
+      </td>
+      <td valign="top">
+        <strong>🧠 RAG & Knowledge Systems</strong><br>
+        Retrieval-Augmented Generation (RAG), document retrieval, knowledge bases, context management, conversational memory, and embedding-based retrieval concepts.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>🌍 Open Source & AI Community</strong><br>
+        LocalAI ecosystem, Git, GitHub, repository maintenance, integration testing, issue troubleshooting, and collaborative development.
+      </td>
+      <td valign="top">
+        <strong>🖥️ UI & Application Builds</strong><br>
+        UI development, dashboards, modular architecture, desktop packaging, installers, launchers, build automation, and release validation.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>🗄️ Databases & SQL</strong><br>
+        PostgreSQL, SQLite, SQL queries, database connectivity, schema fundamentals, persistent storage, and data management.
+      </td>
+      <td valign="top">
+        <strong>🐳 DevOps & Deployment</strong><br>
+        Docker, Docker Compose, Railway, environment configuration, container management, CI/CD, GitHub Actions, health checks, and deployment troubleshooting.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>☁️ Cloud & Infrastructure</strong><br>
+        AWS fundamentals, cloud development environments, Linux services, API deployment, networking, and infrastructure configuration.
+      </td>
+      <td valign="top">
+        <strong>⚙️ Operating Systems</strong><br>
+        Windows 10/11, Linux, Ubuntu, PowerShell administration, system diagnostics, service management, backups, recovery, and software installation.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>📊 Microsoft Office</strong><br>
+        Word, Excel, PowerPoint, Outlook, spreadsheet formulas, data organization, presentations, documentation, and reporting.
+      </td>
+      <td valign="top">
+        <strong>📝 Documentation & Technical Support</strong><br>
+        README files, installation guides, user documentation, troubleshooting guides, diagnostic logs, and software setup support.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>🛡️ Testing & Security</strong><br>
+        Automated, integration, and regression testing; build verification; SHA-256 integrity checks; secure configuration; error handling; and release validation.
+      </td>
+      <td valign="top">
+        <strong>🔧 Systems Automation</strong><br>
+        Workflow automation, startup scripts, service integration, backup tooling, system maintenance, and application troubleshooting.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -75,6 +148,8 @@ My work combines **AI engineering, scripting, web development, systems administr
 </a>
 
 </div>
+
+<div align="center">
 
 **Build • Integrate • Automate • Learn • Share**
 

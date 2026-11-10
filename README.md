@@ -131,23 +131,25 @@ My work combines **AI engineering, scripting, web development, systems administr
 
 ## Featured Projects
 
+
 <div align="center">
 
 <a href="https://github.com/tcdoverlord/LocalAI-Angel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcdoverlord&repo=LocalAI-Angel&theme=transparent&hide_border=true" alt="LocalAI Angel repository">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=tcdoverlord&repo=LocalAI-Angel&theme=transparent&hide_border=true" alt="LocalAI Angel repository">
 </a>
 <a href="https://github.com/tcdoverlord/Angel-AI-Harness">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcdoverlord&repo=Angel-AI-Harness&theme=transparent&hide_border=true" alt="Angel AI Harness repository">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=tcdoverlord&repo=Angel-AI-Harness&theme=transparent&hide_border=true" alt="Angel AI Harness repository">
 </a>
 
 <a href="https://github.com/tcdoverlord/Windows-USB-Safe-Eject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcdoverlord&repo=Windows-USB-Safe-Eject&theme=transparent&hide_border=true" alt="Windows USB Safe Eject repository">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=tcdoverlord&repo=Windows-USB-Safe-Eject&theme=transparent&hide_border=true" alt="Windows USB Safe Eject repository">
 </a>
 <a href="https://github.com/tcdoverlord/HyperV-VM-Backup-PowerShell">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcdoverlord&repo=HyperV-VM-Backup-PowerShell&theme=transparent&hide_border=true" alt="Hyper-V VM Backup PowerShell repository">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=tcdoverlord&repo=HyperV-VM-Backup-PowerShell&theme=transparent&hide_border=true" alt="Hyper-V VM Backup PowerShell repository">
 </a>
 
 </div>
+
 
 <div align="center">
 
